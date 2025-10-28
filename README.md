@@ -47,6 +47,10 @@ O programa possui as seguintes opções no menu:
 
 
 ===== MENU DE OPÇÕES =====
+
+```bash
+
+
 1 - Conversor de Moeda
 2 - Calculadora de Desconto
 3 - Calculadora de Média Escolar
@@ -54,23 +58,29 @@ O programa possui as seguintes opções no menu:
 5 - Calculadora de Soma com Entrada do Usuário
 6 - Calculadora de Salário por Horas Trabalhadas
 0 - Sair
-
+```
 Escolha uma opção: 1
+
+```bash
 
 === Conversor de Moeda ===
 Valor em Reais: R$ 100.00
 Valor em Dólares: US$ 17.86
 Valor em Euros: € 15.15
+```
 
 🧱 Estrutura do Projeto
-
+```bash
 atividade-pratica-02/
 │
 ├── atividade_pratica02.py   # Código principal com menu e funcionalidades
 ├── README.md                # Documentação do projeto
+```
 
 
 👩‍🏫 Autor(a)
+
+```bash
 
 Nome: ALEFE SCHULZ
 Curso: AWS RE/START IA 
